@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Variáveis de ambiente
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Dados reais
+data/*.xlsx
+data/*.xls
+data/*.csv
+
+# Sistema
+.DS_Store
+Thumbs.db
